@@ -11,5 +11,6 @@ module.exports = {
     },
     authentication:{
         jwtSecret: "test"
-    }
+    },
+    publicPath: '/Thesis/',
 }
